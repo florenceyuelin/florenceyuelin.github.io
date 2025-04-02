@@ -69,4 +69,4 @@ Welcome! I am a Ph.D. Candidate in the Travers Department of Political Science a
 
 Prior to doctoral studies, I gained experience at the [American Enterprise Institute](https://www.aei.org/), the [Center for Strategic and International Studies](https://www.csis.org/), and the [Institute of New Structural Economics](https://www.nse.pku.edu.cn/en/) at [Peking University](https://english.pku.edu.cn/). I earned my master's degree in International Economics and International Relations from Johns Hopkins University, Paul H. Nitze School of Advanced International Studies (SAIS). I was the highest-ranking graduate in Government and International Relations from Beijing Normal-Hong Kong Baptist University, and received a national scholarship.
 
-I am constructing an original database capturing legislative activities on economic security. If you have great suggestions or want to chat further, please feel free to contact me.
+I am constructing an **original database** capturing legislative activities on economic security. If you have great suggestions or want to chat further, please feel free to contact me.
