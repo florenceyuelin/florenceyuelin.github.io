@@ -35,7 +35,7 @@ education:
     - course: M.A. in International Economics and International Relations (2020)
       institution: Johns Hopkins University
     - course: B.Soc.Sci. in Government and International Relations (First Class Honors, 2018)
-      institution: Beijing Normal-Hong Kong Baptist University 
+      institution: Hong Kong Baptist University 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
