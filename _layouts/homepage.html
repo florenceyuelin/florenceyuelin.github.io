@@ -63,31 +63,31 @@
 
   <br>
 
-  <div class="social-icons" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; font-size: 1.4rem;">
-    {% if site.cv_link %}
-    <a href="{{ site.cv_link }}" title="CV">
-      <strong style="font-size: 1.2rem;">CV</strong>
-    </a>
-    {% endif %}
+  <div class="social-icons" style="display: flex; justify-content: center; align-items: center; gap: 24px; flex-wrap: nowrap; margin-top: 10px; font-size: 1.5rem;">
+  {% if site.cv_link %}
+  <a href="{{ site.cv_link }}" title="CV" style="text-decoration: none; font-weight: bold;">
+    CV
+  </a>
+  {% endif %}
 
-    {% if site.github_link %}
-    <a href="{{ site.github_link }}" title="GitHub">
-      <i class="fab fa-github"></i>
-    </a>
-    {% endif %}
+  {% if site.github_link %}
+  <a href="{{ site.github_link }}" title="GitHub">
+    <i class="fab fa-github"></i>
+  </a>
+  {% endif %}
 
-    {% if site.linkedin %}
-    <a href="{{ site.linkedin }}" title="LinkedIn">
-      <i class="fab fa-linkedin"></i>
-    </a>
-    {% endif %}
+  {% if site.linkedin %}
+  <a href="{{ site.linkedin }}" title="LinkedIn">
+    <i class="fab fa-linkedin"></i>
+  </a>
+  {% endif %}
 
-    {% if site.twitter %}
-    <a href="{{ site.twitter }}" title="X / Twitter">
-      <i class="fab fa-x-twitter"></i>
-    </a>
-    {% endif %}
-  </div>
+  {% if site.twitter %}
+  <a href="{{ site.twitter }}" title="Twitter / X">
+    <i class="fab fa-x-twitter"></i>
+  </a>
+  {% endif %}
+</div>
 
   <br>
 
