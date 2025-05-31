@@ -24,7 +24,11 @@
 
 blockquote { background: var(--global-bg-color); border-left: 2px solid var(--global-theme-color); margin: 1.5em 10px; padding: 0.5em 10px; font-size: 1.2rem; }
 
-@media print, screen and (min-width: 480px) {.col-sm-9 {width: 100%;}}
+@media print, screen and (min-width: 480px) {.col-sm-9 {
+  width: 70%;        /* or 65%, depending on how narrow you want */
+  max-width: 720px;  /* optional: keeps it from stretching too wide on large screens */
+}
+}
 
 .publications { margin-top: 2rem; }
 
