@@ -17,7 +17,7 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: May 2025)
 
 ## Publications
 
-**Lin, Yue** (2025). “[How Foreign Investment Fuels Social Conflicts in Africa](#)” in S. M. Mitchell, V. Nchotu, & L. L. Atanga (Eds.), *Legalization of Human Rights in Africa: The Institutionalization of Laws Prohibiting State-Sanctioned Violence and Torture* (pp. 149–170). Routledge.
+Lin, Yue (2025). “[How Foreign Investment Fuels Social Conflicts in Africa](#)” in S. M. Mitchell, V. Nchotu, & L. L. Atanga (Eds.), *Legalization of Human Rights in Africa: The Institutionalization of Laws Prohibiting State-Sanctioned Violence and Torture* (pp. 149–170). Routledge.
 
 
 ## Current Projects
