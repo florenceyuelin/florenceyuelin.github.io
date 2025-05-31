@@ -38,64 +38,61 @@
   <body>
     <div class="wrapper">
       <header>
-        
-        {% if site.avatar %}
-        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
-        {% endif %}
 
-        <h1>{{ site.title }}</h1>
+  {% if site.avatar %}
+  <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
+  {% endif %}
 
-        {% if site.position %}
-        <position style="font-size:1.10rem;">{{ site.position }}</position>
-        <br>
-        {% endif %}
-        {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
-        <br>
-        {% endif %}
-        {% if site.email %}
-<a href="mailto:{{ site.email }}" style="color: #1a0dab; text-decoration: none;">
-  {{ site.email }}
-</a>
-{% endif %}
+  <h1>{{ site.title }}</h1>
 
+  {% if site.position %}
+  <position style="font-size:1.10rem;">{{ site.position }}</position><br>
+  {% endif %}
 
-        <br>
-        <br>
-        <div class="social-icons">
-        {% if site.google_scholar %}
-        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
-          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
-        </a>  
-        {% endif %}
+  {% if site.affiliation %}
+  <a href="{{ site.affiliation_link }}" rel="noopener">
+    <autocolor>{{ site.affiliation }}</autocolor>
+  </a><br>
+  {% endif %}
 
-        {% if site.cv_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
-          <i class="ai ai-cv" style="font-size:1.3rem;"></i>
-        </a>
-        {% endif %}
+  {% if site.email %}
+  <a href="mailto:{{ site.email }}" style="color: #1a0dab; text-decoration: none;">
+    {{ site.email }}
+  </a><br>
+  {% endif %}
 
-        {% if site.github_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
-          <i class="fab fa-github"></i>
-        </a>
-        {% endif %}
+  <br>
 
-        {% if site.linkedin %}
-        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
-          <i class="fab fa-linkedin"></i>
-        </a>
-        {% endif %}
+  <div class="social-icons" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; font-size: 1.4rem;">
+    {% if site.cv_link %}
+    <a href="{{ site.cv_link }}" title="CV">
+      <strong style="font-size: 1.2rem;">CV</strong>
+    </a>
+    {% endif %}
 
-        {% if site.twitter %}
-        <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
-          <i class="fab fa-x-twitter"></i>
-        </a>
-        {% endif %}
-        </div>
-        <br>
+    {% if site.github_link %}
+    <a href="{{ site.github_link }}" title="GitHub">
+      <i class="fab fa-github"></i>
+    </a>
+    {% endif %}
 
-      </header>
+    {% if site.linkedin %}
+    <a href="{{ site.linkedin }}" title="LinkedIn">
+      <i class="fab fa-linkedin"></i>
+    </a>
+    {% endif %}
+
+    {% if site.twitter %}
+    <a href="{{ site.twitter }}" title="X / Twitter">
+      <i class="fab fa-x-twitter"></i>
+    </a>
+    {% endif %}
+  </div>
+
+  <br>
+
+</header>
+      
       <section>
 
       {{ content }}
