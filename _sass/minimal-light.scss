@@ -2,17 +2,19 @@
   display: flex; 
   align-items: center;}
 
-.social-icons a{
-  display:inline-block;
-  height:2.4rem;
-  width:2.4rem;
-  background-color:transparent;
-  color:#043361!important;
-  border-radius:100%;
-  text-align:center;
-  font-size:1.15rem;
-  line-height:2.5rem;
-  margin-right:1rem}
+.social-icons a {
+  display: inline-block;
+  height: 2.4rem;
+  width: 2.4rem;
+  background-color: transparent;
+  color: #043361 !important;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 1.15rem;
+  line-height: 2.5rem;
+  margin-right: 0.5rem;  /* ↓ Reduced from 1rem */
+}
+
 
 @media (prefers-color-scheme: dark) { .social-icons a {color: #3eb7f0 !important; }}
 
