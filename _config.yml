@@ -1,7 +1,6 @@
 # Basic Information 
 title: Yue Lin
-affiliation: UC Berkeley
-email: mailto:florenceyuelin@berkeley.edu
+position: UC Berkeley
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -10,6 +9,7 @@ description: The Minimal Light is a simple and elegant jekyll theme for academic
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
+email: florenceyuelin@berkeley.edu
 cv_link: assets/files/cv.pdf
 github_link: https://github.com/florenceyuelin
 linkedin: https://www.linkedin.com/in/yue-lin-08b212138/
