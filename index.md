@@ -17,26 +17,25 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: May 2025)
 
 ## Publications
 
-**Lin, Y.** (2025). “[How Foreign Investment Fuels Social Conflicts in Africa](#)”  
-In S. M. Mitchell, V. Nchotu, & L. L. Atanga (Eds.), *Legalization of Human Rights in Africa: The Institutionalization of Laws Prohibiting State-Sanctioned Violence and Torture* (pp. 149–170). Routledge.
+**Lin, Yue** (2025). “[How Foreign Investment Fuels Social Conflicts in Africa](#)” in S. M. Mitchell, V. Nchotu, & L. L. Atanga (Eds.), *Legalization of Human Rights in Africa: The Institutionalization of Laws Prohibiting State-Sanctioned Violence and Torture* (pp. 149–170). Routledge.
 
 
 ## Current Projects
 
-1. **Nationality Backlash**: Multinational Corporations in the Shadow of Home–Host State Rivalry  
+1. Nationality Backlash: Multinational Corporations in the Shadow of Home–Host State Rivalry  
    _Revise & Resubmit_
 
-2. **Sink or Swim Together?** How the Rule of Law Affects Cross-Border Investment
+2. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
 
-3. **Striking but Fleeting**: Why National Security Hits Headlines in Regulating Foreign Investment
+3. Striking but Fleeting: Why National Security Hits Headlines in Regulating Foreign Investment
 
-4. **Benefits as Buffers?** Public Reactions to National Security Bashing of Foreign Investment
+4. Benefits as Buffers? Public Reactions to National Security Bashing of Foreign Investment
 
-5. **For Whose Sake?** Corporate Motivations Behind Economic National Security  
+5. For Whose Sake? Corporate Motivations Behind Economic National Security  
    _Nominated for Best Paper Prize and PhD Paper Prize, Strategic Management Society Annual Conference of 2025_
 
-6. **Geopoliticized Industrial Policy**: Power Rivalries and the Allocation of Government Subsidies  
-   (with Boliang Zhu)
+6. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies  
+   (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
 
-7. **Transformative Techno-Nationalism**: Corporate Reactions, Labor Policies, and Automation  
-   (with Zhizhen Lu)
+7. Transformative Techno-Nationalism: Corporate Reactions, Labor Policies, and Automation  
+   (with [Zhizhen Lu](https://www.zhizhenlu.com/))
