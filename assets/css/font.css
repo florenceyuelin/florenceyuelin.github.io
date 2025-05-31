@@ -3,23 +3,28 @@
 
 body {
   background-color: #fff;
-  padding:0px;
-  font: 16.0px/1.5 Crimson Pro, serif; 
-  color:#595959;
-  font-weight:400;
-  margin:0
+  padding: 0px;
+  font: 16.0px/1.5 Crimson Pro, serif;
+  color: #595959;
+  font-weight: 400;
+  margin: 0;
 }
 
-a {
+/* Force all links to use Google Blue */
+a,
+.publications a,
+.col-sm-9 a,
+.pub-row a,
+.bibliography a {
   color: #1a0dab !important;
   text-decoration: none;
 }
 
 a:visited {
-  color: #551a8b;
+  color: #551a8b !important;
 }
 
 a:hover {
-  color: #174ea6;
+  color: #174ea6 !important;
   text-decoration: underline;
 }
