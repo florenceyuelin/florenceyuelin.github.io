@@ -8,6 +8,8 @@ Welcome! I am a Ph.D. Candidate in the Travers Department of Political Science a
 
 Prior to doctoral studies, I gained experience at the [American Enterprise Institute](https://www.aei.org/), the [Center for Strategic and International Studies](https://www.csis.org/), and the [Institute of New Structural Economics](https://www.nse.pku.edu.cn/en/) at [Peking University](https://english.pku.edu.cn/). I earned my master's degree in International Economics and International Relations from Johns Hopkins University, Paul H. Nitze School of Advanced International Studies (SAIS). I was the highest-ranking graduate in Government and International Relations from Hong Kong Baptist University, and received a national scholarship.
 
+You can access my CV [here](assets/files/cv.pdf). (Last updated: May 2025)
+
 ## Research Interests
 
 - **Substance:** Geopolitics, Economic Security, Congress, Multinational Enterprises, Firm Strategy
