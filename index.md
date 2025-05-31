@@ -25,7 +25,7 @@ Lin, Y. (2025). “[How Foreign Investment Fuels Social Conflicts in Africa](#).
 ## Current Projects
 
 1. Nationality Backlash: Multinational Corporations in the Shadow of Home–Host State Rivalry  
-(*Revise & Resubmit*)
+- Revise & Resubmit
    
 2. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
 
@@ -34,7 +34,7 @@ Lin, Y. (2025). “[How Foreign Investment Fuels Social Conflicts in Africa](#).
 4. Benefits as Buffers? Public Reactions to National Security Bashing of Foreign Investment
 
 5. For Whose Sake? Corporate Motivations Behind Economic National Security    
-(*Nominated for Best Paper Prize and PhD Paper Prize, Strategic Management Society Annual Conference of 2025*)
+- Nominated for Best Paper Prize and PhD Paper Prize, Strategic Management Society Annual Conference of 2025
 
 6. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
 
