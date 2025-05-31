@@ -34,8 +34,6 @@ Lin, Yue (2025). “[How Foreign Investment Fuels Social Conflicts in Africa](#)
 5. For Whose Sake? Corporate Motivations Behind Economic National Security  
    (_Nominated for Best Paper Prize and PhD Paper Prize, Strategic Management Society Annual Conference of 2025_)
 
-6. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies  
-   (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
+6. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
 
-7. Transformative Techno-Nationalism: Corporate Reactions, Labor Policies, and Automation  
-   (with [Zhizhen Lu](https://www.zhizhenlu.com/))
+7. Transformative Techno-Nationalism: Corporate Reactions, Labor Policies, and Automation (with [Zhizhen Lu](https://www.zhizhenlu.com/))
