@@ -40,7 +40,9 @@
       <header>
 
   {% if site.avatar %}
-  <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
+ <a class="image avatar" style="display: inline-block;">
+  <img src="{{ site.avatar }}" alt="avatar" style="width: 200px; height: auto; border-radius: 0; box-shadow: none;" />
+</a>
   {% endif %}
 
   <h1>{{ site.title }}</h1>
@@ -64,10 +66,6 @@
   <br>
 
   <div class="social-icons" style="display: flex; justify-content: center; align-items: center; gap: 2px; font-size: 1.2rem; margin-top: 5px;">
-  <a href="mailto:{{ site.email }}" title="Email" style="color: #1a0dab;">
-    <i class="fas fa-envelope"></i>
-  </a>
-
   {% if site.github_link %}
   <a href="{{ site.github_link }}" title="GitHub" style="color: #1a0dab;">
     <i class="fab fa-github"></i>
