@@ -10,21 +10,22 @@ Prior to doctoral studies, I worked at the [American Enterprise Institute](https
 
 You can access my CV [here](assets/files/cv.pdf). (Last updated: May 2025)
 
+
 ## Research Interests
 
 - **Substance:** Geopolitics, Economic Security, Congress, Multinational Enterprises, Firm Strategy
 - **Methodology:** Natural Language Processing, Machine Learning, Experiment, Interview
 
+
 ## Publications
 
-Lin, Yue (2025). “[How Foreign Investment Fuels Social Conflicts in Africa](#)” in S. M. Mitchell, V. Nchotu, & L. L. Atanga (Eds.), *Legalization of Human Rights in Africa: The Institutionalization of Laws Prohibiting State-Sanctioned Violence and Torture* (pp. 149–170). Routledge.
+Lin, Y. (2025). “[How Foreign Investment Fuels Social Conflicts in Africa](#).” In S. M. Mitchell, V. Nchotu, & L. L. Atanga (Eds.), *Legalization of Human Rights in Africa: The Institutionalization of Laws Prohibiting State-Sanctioned Violence and Torture* (pp. 149–170). Routledge.
 
 
 ## Current Projects
 
 1. Nationality Backlash: Multinational Corporations in the Shadow of Home–Host State Rivalry  
    (_Revise & Resubmit_)
-
 2. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
 
 3. Striking but Fleeting: Why National Security Hits Headlines in Regulating Foreign Investment
