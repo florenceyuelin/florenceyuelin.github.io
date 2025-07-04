@@ -8,7 +8,7 @@ Welcome! I am a Ph.D. Candidate in Political Science at the [University of Calif
 
 Prior to doctoral studies, I worked at the [American Enterprise Institute](https://www.aei.org/), the [Center for Strategic and International Studies](https://www.csis.org/), and the [Institute of New Structural Economics](https://www.nse.pku.edu.cn/en/) at [Peking University](https://english.pku.edu.cn/). I received an M.A. in International Economics and International Relations from Johns Hopkins University, Paul H. Nitze School of Advanced International Studies (SAIS). I earned a B.Soc.Sci. in Government and International Relations from Hong Kong Baptist University, where I was awarded a national scholarship and graduated as the highest-ranking student.
 
-You can access my CV [here](assets/files/cv.pdf). (Last updated: May 2025)
+You can access my CV [here](assets/files/cv.pdf). (Last updated: July 2025)
 
 
 ## Research Interests
