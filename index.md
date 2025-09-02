@@ -21,21 +21,24 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: July 2025)
 
 Lin, Y. (2025). “[How Foreign Investment Fuels Social Conflicts in Africa](https://www.routledge.com/Legalization-of-Human-Rights-in-Africa-The-Institutionalization-of-Laws-Prohibiting-State-Sanctioned-Violence-and-Torture/Mitchell-Nchotu-Atanga/p/book/9781032749495).” In S. M. Mitchell, V. Nchotu, & L. L. Atanga (Eds.), *Legalization of Human Rights in Africa: The Institutionalization of Laws Prohibiting State-Sanctioned Violence and Torture* (pp. 149–170). Routledge.
 
-
-## Current Projects
+## Working Papers
 
 1. Nationality Backlash: Multinational Corporations in the Shadow of Home-Host State Rivalry    
 (*Revise & Resubmit*)
    
 2. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
+ 
+## Ongoing Projects
 
-3. Striking but Fleeting: Why National Security Hits Headlines in Regulating Foreign Investment
+1. Striking but Fleeting: Why National Security Hits Headlines in Regulating Foreign Investment
 
-4. Benefits as Buffers? Public Reactions to National Security Bashing of Foreign Investment
+2. Benefits as Buffers? Public Reactions to National Security Bashing of Foreign Investment
 
-5. For Whose Sake? Corporate Motivations Behind Economic National Security  
+3. For Whose Sake? Corporate Motivations Behind Economic National Security  
 (*Nominated for Best Paper Prize and PhD Paper Prize, Strategic Management Society 2025 Annual Conference*)
 
-6. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
+4. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
 
-7. Transformative Techno-Nationalism: Corporate Reactions, Labor Policies, and Automation (with [Zhizhen Lu](https://www.zhizhenlu.com/))
+5. A Machine Learning Approach to Match Firm Data (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/) and [Lingyu (Jack) Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/))
+
+6. Transformative Techno-Nationalism: Corporate Reactions, Labor Policies, and Automation (with [Zhizhen Lu](https://www.zhizhenlu.com/))
