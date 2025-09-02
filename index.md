@@ -14,7 +14,7 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: July 2025)
 ## Research Interests
 
 - **Substance:** Geopolitics, Economic Security, Congress, Multinational Enterprises, Firm Strategy
-- **Methodology:** Natural Language Processing, Machine Learning, Experiment, Interview
+- **Methodology:** Natural Language Processing, Machine Learning, Experiments in Social Science, Elite Interview
 
 
 ## Publications
