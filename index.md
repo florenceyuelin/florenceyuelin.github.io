@@ -39,6 +39,6 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: September 2025)
 
 4. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
 
-5. A Machine Learning Approach to Match Firm Data (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/) and [Lingyu (Jack) Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/))
+5. A Machine Learning Approach to Match Firm Data (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/) and [Lingyu Jack Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/))
 
-6. Transformative Techno-Nationalism: Corporate Reactions, Labor Policies, and Automation (with [Zhizhen Lu](https://www.zhizhenlu.com/))
+6. Transformative Techno-Nationalism: Corporation, Labor, and Automation (with [Zhizhen Lu](https://www.zhizhenlu.com/))
