@@ -32,7 +32,7 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: September 2025)
 
 1. Striking but Fleeting: Why National Security Hits Headlines in Regulating Foreign Investment
 
-2. Benefits as Buffers? Public Reactions to National Security Bashing of Foreign Investment
+2. Securitizing the Sophisticated: Technology, Public Opinion, and Economic National Security
 
 3. For Whose Sake? Corporate Motivations Behind Economic National Security  
 (*Nominated for Best Paper Prize and PhD Paper Prize, Strategic Management Society 2025 Annual Conference*)
