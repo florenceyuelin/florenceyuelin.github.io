@@ -25,7 +25,7 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: September 2025)
 1. Nationality Backlash: Multinational Corporations in the Shadow of Rivalry
    <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
      <li style="list-style-type: disc; color: black; margin:0;">
-       <em>Revise & resubmit</em>
+       Revise & resubmit
      </li>
    </ul>
    
