@@ -29,9 +29,13 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: September 2025)
      </li>
    </ul>
    
-2. Manipulating Discursive Funnels: How Businesses Counter Geopolitical Tensions Through Information (with [Chengyu Fu](https://chengyufu.github.io/)) 
-- *Under review*
-  
+2. Manipulating Discursive Funnels: How Businesses Counter Geopolitical Tensions Through Information (with [Chengyu Fu](https://chengyufu.github.io/))
+   <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
+     <li style="list-style-type: disc; color: black; margin:0;">
+        <em>Under review</em>
+     </li>
+   </ul>
+     
 3. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
  
 ## Ongoing Projects
@@ -40,9 +44,13 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: September 2025)
 
 2. Securitizing the Sophisticated: Technology, Public Opinion, and Economic National Security
 
-3. For Whose Sake? Corporate Motivations Behind Economic National Security  
-- *Nominated for Best Paper Prize and PhD Paper Prize, Strategic Management Society 2025 Annual Conference*
-
+3. For Whose Sake? Corporate Motivations Behind Economic National Security
+   <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
+     <li style="list-style-type: disc; color: black; margin:0;">
+         <em>Nominated for Best Paper Prize and PhD Paper Prize, Strategic Management Society 2025 Annual Conference</em>
+     </li>
+   </ul>
+   
 4. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
 
 5. Transformative Techno-Nationalism: Corporation, Labor, and Automation (with [Zhizhen Lu](https://www.zhizhenlu.com/))
