@@ -23,8 +23,12 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: September 2025)
 
 ## Working Papers
 
-1. Nationality Backlash: Multinational Corporations in the Shadow of Home-Host State Rivalry    
-- *Revise & resubmit*
+1. Nationality Backlash: Multinational Corporations in the Shadow of Home-Host State Rivalry
+<ul>
+  <li style="list-style-type: disc; color: black;">
+    <em>*Revise & resubmit*</em>
+  </li>
+</ul>
    
 2. Manipulating Discursive Funnels: How Businesses Counter Geopolitical Tensions Through Information (with [Chengyu Fu](https://chengyufu.github.io/)) 
 - *Under review*
