@@ -22,16 +22,12 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: September 2025)
 **Lin, Y**. (2025). “[How Foreign Investment Fuels Social Conflicts in Africa](https://www.routledge.com/Legalization-of-Human-Rights-in-Africa-The-Institutionalization-of-Laws-Prohibiting-State-Sanctioned-Violence-and-Torture/Mitchell-Nchotu-Atanga/p/book/9781032749495).” In S. M. Mitchell, V. Nchotu, & L. L. Atanga (Eds.), *Legalization of Human Rights in Africa: The Institutionalization of Laws Prohibiting State-Sanctioned Violence and Torture* (pp. 149–170). Routledge.
 
 ## Working Papers
-<ol>
-  <li>
-    Nationality Backlash: Multinational Corporations in the Shadow of Rivalry
+1. Nationality Backlash: Multinational Corporations in the Shadow of Rivalry
     <ul style="margin-top: 0; margin-bottom: 0; padding-left: 1em;">
       <li style="list-style-type: disc; color: black;">
         <em>Revise & resubmit</em>
       </li>
     </ul>
-  </li>
-</ol>
    
 2. Manipulating Discursive Funnels: How Businesses Counter Geopolitical Tensions Through Information (with [Chengyu Fu](https://chengyufu.github.io/)) 
 - *Under review*
