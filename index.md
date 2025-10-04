@@ -45,11 +45,13 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: September 2025)
 2. Securitizing the Sophisticated: Technology, Public Opinion, and Economic National Security
 
 3. For Whose Sake? Corporate Motivations Behind Economic National Security
-   <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
-     <li style="list-style-type: disc; color: black; margin:0;">
-         <em>Nominated for Best Paper Prize and PhD Paper Prize, Strategic Management Society 2025 Annual Conference</em>
-     </li>
-   </ul>
+<ul style="margin:0; padding-left:1.2em; list-style-position: outside;">
+  <li style="list-style-type: disc; color: black; margin:0;">
+    <span style="font-style: italic; font-weight: normal;">
+      Nominated for Best Paper Prize and PhD Paper Prize, Strategic Management Society 2025 Annual Conference
+    </span>
+  </li>
+</ul>
    
 4. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
 
