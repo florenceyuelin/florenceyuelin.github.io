@@ -24,10 +24,11 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: September 2025)
 ## Working Papers
 
 1. Nationality Backlash: Multinational Corporations in the Shadow of Home-Host State Rivalry    
-(*Revise & resubmit*)
+- *Revise & resubmit*
    
-2. Manipulating Discursive Funnels: How Businesses Counter Geopolitical Tensions Through Information (with [Chengyu Fu](https://chengyufu.github.io/)) (*Under review*)
-
+2. Manipulating Discursive Funnels: How Businesses Counter Geopolitical Tensions Through Information (with [Chengyu Fu](https://chengyufu.github.io/)) 
+- *Under review*
+  
 3. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
  
 ## Ongoing Projects
@@ -37,7 +38,7 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: September 2025)
 2. Securitizing the Sophisticated: Technology, Public Opinion, and Economic National Security
 
 3. For Whose Sake? Corporate Motivations Behind Economic National Security  
-(*Nominated for Best Paper Prize and PhD Paper Prize, Strategic Management Society 2025 Annual Conference*)
+- *Nominated for Best Paper Prize and PhD Paper Prize, Strategic Management Society 2025 Annual Conference*
 
 4. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
 
