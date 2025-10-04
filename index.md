@@ -24,9 +24,11 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: September 2025)
 ## Working Papers
 
 1. Nationality Backlash: Multinational Corporations in the Shadow of Home-Host State Rivalry    
-(*Revise & Resubmit*)
+(*Revise & resubmit*)
    
-2. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
+2. Manipulating Discursive Funnels: How Businesses Counter Geopolitical Tensions Through Information (with [Chengyu Fu](https://chengyufu.github.io/)) (*Under review*)
+
+3. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
  
 ## Ongoing Projects
 
@@ -41,6 +43,4 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: September 2025)
 
 5. Transformative Techno-Nationalism: Corporation, Labor, and Automation (with [Zhizhen Lu](https://www.zhizhenlu.com/))
 
-6. Manipulating Discursive Funnels: How Businesses Counter Geopolitical Tensions Through Information (with [Chengyu Fu](https://chengyufu.github.io/))
-
-7. A Machine Learning Approach to Match Firm Data (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/) and [Lingyu Jack Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/))
+6. A Machine Learning Approach to Match Firm Data (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/) and [Lingyu Jack Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/))
