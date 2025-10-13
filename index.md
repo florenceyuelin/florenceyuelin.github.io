@@ -55,6 +55,6 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: October 2025)
    
 4. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
 
-5. Transformative Techno-Nationalism: Corporation, Labor, and Automation (with [Zhizhen Lu](https://www.zhizhenlu.com/))
-
-6. A Human-Machine Interactive Approach to Record Linkage in Big Datasets via SPLINK Package (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/) and [Lingyu Jack Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/))
+5. A Human-Machine Interactive Approach to Record Linkage in Big Datasets via SPLINK Package (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/) and [Lingyu Jack Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/))
+  
+6. Transformative Techno-Nationalism: Corporation, Labor, and Automation (with [Zhizhen Lu](https://www.zhizhenlu.com/))
