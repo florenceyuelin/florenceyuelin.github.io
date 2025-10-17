@@ -55,6 +55,6 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: October 2025)
      </li>
    </ul>
 
-4. A Human-Machine Interactive Approach to Record Linkage in Big Datasets via SPLINK Package (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/) and [Lingyu Jack Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/))
+4. A Human-Machine Interactive Approach to Record Linkage in Big Datasets via SPLINK Package (with [Lingyu Jack Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/) and [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
   
 5. Transformative Techno-Nationalism: Corporation, Labor, and Automation (with [Zhizhen Lu](https://www.zhizhenlu.com/))
