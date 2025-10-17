@@ -38,7 +38,9 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: October 2025)
      </li>
    </ul>
      
-3. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
+3. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
+   
+4. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
  
 ## Ongoing Projects
 
@@ -53,9 +55,6 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: October 2025)
      </li>
    </ul>
 
-    
-4. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
-
-5. A Human-Machine Interactive Approach to Record Linkage in Big Datasets via SPLINK Package (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/) and [Lingyu Jack Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/))
+4. A Human-Machine Interactive Approach to Record Linkage in Big Datasets via SPLINK Package (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/) and [Lingyu Jack Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/))
   
-6. Transformative Techno-Nationalism: Corporation, Labor, and Automation (with [Zhizhen Lu](https://www.zhizhenlu.com/))
+5. Transformative Techno-Nationalism: Corporation, Labor, and Automation (with [Zhizhen Lu](https://www.zhizhenlu.com/))
