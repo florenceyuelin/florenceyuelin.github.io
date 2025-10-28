@@ -45,12 +45,23 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: October 2025)
 ## Ongoing Projects
 
 1. Striking but Fleeting: Why National Security Hits Headlines in Regulating Foreign Investment
+   <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
+     <li style="list-style-type: disc; color: black; margin:0;">
+       <em>Dissertation First Chapter</em>
+     </li>
+   </ul>
 
 2. Securitizing the Sophisticated: Technology, Public Opinion, and Economic National Security
+  <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
+     <li style="list-style-type: disc; color: black; margin:0;">
+       <em>Dissertation Second Chapter</em>
+     </li>
+   </ul>
 
 3. For Whose Sake? Corporate Motivations Behind Economic National Security
    <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
      <li style="list-style-type: disc; color: black; margin:0;">
+       <em>Dissertation Third Chapter</em>
        <em>Nominated for Best Paper Prize and PhD Paper Prize, Strategic Management Society 2025 Conference</em>
      </li>
    </ul>
