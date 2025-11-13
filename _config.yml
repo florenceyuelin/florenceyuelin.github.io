@@ -17,9 +17,9 @@ twitter: https://x.com/florenceyuelin
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/Lin_headshot_2025.png
-favicon: ./assets/img/Lin_headshot_2025.png
-favicon_dark: ./assets/img/Lin_headshot_2025.png
+avatar: ./assets/img/headshot_DC_2025.jpg
+favicon: ./assets/img/headshot_DC_2025.jpg
+favicon_dark: ./assets/img/headshot_DC_2025.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
