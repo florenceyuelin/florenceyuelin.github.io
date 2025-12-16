@@ -44,7 +44,7 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: October 2025)
  
 ## Ongoing Projects
 
-1. Striking but Fleeting: Why National Security Hits Headlines in Regulating Foreign Investment
+1. Striking but Fleeting: How Election-Driven Economic Securitization Shapes Multinational Firms’ Nonmarket Strategies
 
 2. Securitizing the Sophisticated: Technology, Public Opinion, and Economic National Security
 
