@@ -10,7 +10,7 @@ My dissertation, titled ***Championing Economic National Security in a De-Global
 
 Prior to doctoral studies, I worked at the [American Enterprise Institute](https://www.aei.org/), the [Center for Strategic and International Studies](https://www.csis.org/), and the [Institute of New Structural Economics](https://www.nse.pku.edu.cn/en/) at [Peking University](https://english.pku.edu.cn/). I received an M.A. in International Economics and International Relations from [Paul H. Nitze School of Advanced International Studies, Johns Hopkins University](https://sais.jhu.edu/). I earned a B.Soc.Sci. in Government and International Relations from Hong Kong Baptist University, where I was awarded a national scholarship (top 0.05%) and graduated top of my cohort.
 
-You can access my CV [here](assets/files/cv.pdf). (Last updated: October 2025)
+You can access my CV [here](assets/files/cv.pdf). (Last updated: January 2026)
 
 
 ## Research Interests
