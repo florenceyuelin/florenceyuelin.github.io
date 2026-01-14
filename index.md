@@ -27,7 +27,7 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: October 2025)
 1. Nationality Backlash: Multinational Corporations in the Shadow of Rivalry
    <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
      <li style="list-style-type: disc; color: black; margin:0;">
-       <em>Revise & resubmit</em>
+       <em>Conditionally accepted</em>
      </li>
    </ul>
    
@@ -44,7 +44,7 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: October 2025)
  
 ## Ongoing Projects
 
-1. Striking but Fleeting: How Election-Driven Economic Securitization Shapes Multinational Firms’ Nonmarket Strategies
+1. Striking but Fleeting: How Economic Security Shapes Global Firms’ Nonmarket Strategies
 
 2. Securitizing the Sophisticated: Technology, Public Opinion, and Economic National Security
 
