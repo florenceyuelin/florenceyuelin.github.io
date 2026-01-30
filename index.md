@@ -21,26 +21,20 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: January 2026)
 
 ## Publications
 
+**Lin, Y**. (2026). “Nationality Backlash: Multinational Corporations in the Shadow of Home-Host State Rivalry.” Forthcoming at *Law and Geoeconomics*.
+
 **Lin, Y**. (2025). “[How Foreign Investment Fuels Social Conflicts in Africa](https://www.routledge.com/Legalization-of-Human-Rights-in-Africa-The-Institutionalization-of-Laws-Prohibiting-State-Sanctioned-Violence-and-Torture/Mitchell-Nchotu-Atanga/p/book/9781032749495).” In S. M. Mitchell, V. Nchotu, & L. L. Atanga (Eds.), *Legalization of Human Rights in Africa: The Institutionalization of Laws Prohibiting State-Sanctioned Violence and Torture* (pp. 149–170). Routledge.
 
 ## Working Papers
-1. Nationality Backlash: Multinational Corporations in the Shadow of Rivalry
-   <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
-     <li style="list-style-type: disc; color: black; margin:0;">
-       <em>Forthcoming at Law and Geoeconomics</em>
-     </li>
-   </ul>
-   
-2. Manipulating Discursive Funnels: How Businesses Counter Geopolitical Tensions Through Information (with [Chengyu Fu](https://chengyufu.github.io/))
+1. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
    <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
      <li style="list-style-type: disc; color: black; margin:0;">
         <em>Under review</em>
      </li>
    </ul>
-     
-3. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
    
-4. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
+2. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
+   
  
 ## Ongoing Projects
 
@@ -57,4 +51,6 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: January 2026)
 
 4. A Human-Machine Interactive Approach to Record Linkage in Big Datasets via SPLINK Package (with [Lingyu Jack Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/) and [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
   
-5. Transformative Techno-Nationalism: Corporation, Labor, and Automation (with [Zhizhen Lu](https://www.zhizhenlu.com/))
+5. Manipulating Discursive Funnels: How Businesses Counter Geopolitical Tensions Through Information (with [Chengyu Fu](https://chengyufu.github.io/))
+  
+6. Transformative Techno-Nationalism: Corporation, Labor, and Automation (with [Zhizhen Lu](https://www.zhizhenlu.com/))
