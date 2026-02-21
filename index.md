@@ -35,7 +35,8 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: February 2026)
    
 2. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
    
- 
+3. A Human-Machine Interactive Approach to Record Linkage in Big Datasets via SPLINK Package (with [Lingyu Jack Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/) and [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
+    
 ## Ongoing Projects
 
 1. Striking but Fleeting: How Economic Security Shapes Global Firms’ Nonmarket Strategies
@@ -49,7 +50,7 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: February 2026)
      </li>
    </ul>
 
-4. A Human-Machine Interactive Approach to Record Linkage in Big Datasets via SPLINK Package (with [Lingyu Jack Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/) and [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
+4. Navigating the Chasm: How Political Signal Incongruence Shapes Corporate Nonmarket Strategy (with [Jin Hyung Kim](https://business.gwu.edu/jin-hyung-kim))
   
 5. Manipulating Discursive Funnels: How Businesses Counter Geopolitical Tensions Through Information (with [Chengyu Fu](https://chengyufu.github.io/))
   
