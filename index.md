@@ -39,7 +39,7 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: March 2026)
     
 ## Ongoing Projects
 
-1. Striking but Fleeting: How Economic Security Shapes Global Firms’ Nonmarket Strategies
+1. Striking but Fleeting: How Economic Security Shapes Global Firms’ Socio-Political Strategy
 
 2. Securitizing the Sophisticated: Technology, Public Opinion, and Economic National Security
 
