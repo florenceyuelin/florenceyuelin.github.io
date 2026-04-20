@@ -21,7 +21,7 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: April 2026)
 
 ## Publications
 
-**Lin, Y**. (2026). “[Nationality Backlash: Multinational Corporations in the Shadow of Home-Host State Rivalry](https://brill.com/view/journals/lgeo/aop/article-10.1163-29505720-bja00012/article-10.1163-29505720-bja00012.xml?ebody=Abstract%2FExcerpt#access-options2).” Forthcoming at *Law and Geoeconomics*.
+**Lin, Y**. (2026). “[Nationality Backlash: Multinational Corporations in the Shadow of Home-Host State Rivalry](https://brill.com/view/journals/lgeo/aop/article-10.1163-29505720-bja00012/article-10.1163-29505720-bja00012.xml?ebody=Abstract%2FExcerpt#access-options2).” [Online View](assets/files/Online_view.pdf) at *Law and Geoeconomics*. 
 
 **Lin, Y**. (2025). “[How Foreign Investment Fuels Social Conflicts in Africa](https://www.routledge.com/Legalization-of-Human-Rights-in-Africa-The-Institutionalization-of-Laws-Prohibiting-State-Sanctioned-Violence-and-Torture/Mitchell-Nchotu-Atanga/p/book/9781032749495).” In S. M. Mitchell, V. Nchotu, & L. L. Atanga (Eds.), *Legalization of Human Rights in Africa: The Institutionalization of Laws Prohibiting State-Sanctioned Violence and Torture* (pp. 149–170). Routledge.
 
