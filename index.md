@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome! I am a Ph.D. Candidate in Political Science at the [University of California, Berkeley](https://polisci.berkeley.edu/people/person/yue-florence-lin), with a Designated Emphasis on Political Economy through the [Berkeley Economy & Society Initiative](https://besi.berkeley.edu/graduate-program/), and a [Data Science & AI Fellow](https://dlab.berkeley.edu/people/yue-lin) at the [Data Science Lab](https://dlab.berkeley.edu/home). I am currently a non-residential Hans J. Morgenthau Fellow with the [O’Brien Notre Dame International Security Center](https://ondisc.nd.edu/) at the University of Notre Dame (2026-27).
+Welcome! I am a Ph.D. Candidate in Political Science at the [University of California, Berkeley](https://polisci.berkeley.edu/people/person/yue-florence-lin), with a Designated Emphasis on Political Economy through the [Berkeley Economy & Society Initiative](https://besi.berkeley.edu/graduate-program/), and a [Data Science & AI Fellow](https://dlab.berkeley.edu/people/yue-lin) at the [Data Science Lab](https://dlab.berkeley.edu/home). I am currently a non-resident Hans J. Morgenthau Fellow with the [O’Brien Notre Dame International Security Center](https://ondisc.nd.edu/) at the University of Notre Dame (2026-27).
 
 My dissertation, titled ***Championing Economic National Security in a De-Globalized Era***, won the 2025 [Best Doctoral Dissertation Proposal](https://www.aib.world/about/awards/doctoral-dissertation-proposal/) from [Academy of International Business](https://www.aib.world/). I investigate how multinational enterprises (MNEs) navigate a new transnational political risk: advanced democracies invoking **national security** to restrict cross-border investment. This shift reshapes the competitive and nonmarket strategy landscape for firms operating across geopolitical divides, raising new questions about how MNEs respond to politicized host-country institutions. First, I trace the political origins of this trend in the U.S. Congress and analyze the nonmarket strategies MNEs use to manage geopolitical risk. Second, I study how societal stakeholders—especially consumers—respond, and how their reactions shape the cross-border diffusion of frontier technologies. Empirically, I combine original data, experiments, and qualitative interviews to explore these questions. From 2023 to 2025, I conducted fieldwork in China, Japan, and the United States.
 
@@ -32,6 +32,7 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: May 2026)
    <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
      <li style="list-style-type: disc; color: black; margin:0;">
         <em>Under review</em>
+        <em>Finalist for 2026 UNCTAD-AIB Award for Research on Investment and Development</em>
      </li>
    </ul>
    
