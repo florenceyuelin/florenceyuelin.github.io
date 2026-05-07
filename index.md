@@ -31,7 +31,7 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: May 2026)
 1. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
    <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
      <li style="list-style-type: disc; color: black; margin:0;">
-       <em>Under review</em>
+       <em>Invited to submit full paper, *Journal of International Business Policy*</em>
      </li>
      <li style="list-style-type: disc; color: black; margin:0;">
        <em>Finalist for 2026 UNCTAD-AIB Award for Research on Investment and Development</em>
