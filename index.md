@@ -34,11 +34,10 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: May 2026)
        <em>Job Market Paper</em>
      </li>
    </ul>
-   <details class="paper-toggle">
-     <summary>Abstract</summary>
-     <div class="abstract-body">
-       Your abstract text goes here. Write it as one flowing paragraph
-       to match the screenshot style.
+   <details style="margin:0.5em 0 1em 0;">
+     <summary style="cursor:pointer; color:#2a9fd6; list-style:none; display:inline-block; padding:2px 0;">Abstract</summary>
+     <div style="margin-top:0.8em; line-height:1.65; color:#333; max-width:42em;">
+       Your abstract text goes here. Write it as one flowing paragraph to match the screenshot style.
      </div>
    </details>
    
