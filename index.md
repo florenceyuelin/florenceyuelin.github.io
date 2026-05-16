@@ -64,10 +64,10 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: May 2026)
        <em>Job Market Paper</em>
      </li>
    </ul>
-   <button class="collapsible">Abstract</button>
-   <div class="content">
-     <p>Your abstract text goes here. Write it as one flowing paragraph to match the screenshot style.</p>
-   </div>
+   <button class="collapsible" data-target="abs1">Abstract</button>
+<div class="content" id="abs1">
+  <p>Your abstract text for paper 1 goes here.</p>
+</div>
    
 2. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
    <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
