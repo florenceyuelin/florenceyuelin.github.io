@@ -111,9 +111,5 @@ firms operating in increasingly politicized contexts.
 3. When Regulation Bites: The Asymmetry of Technology Statecraft and U.S.–China Cross-Border Venture Capital Investment (with [Jin Hyung Kim](https://business.gwu.edu/jin-hyung-kim))
 
 4. Navigating the Chasm: How Political Signal Incongruence Shapes Corporate Nonmarket Strategy (with [Jin Hyung Kim](https://business.gwu.edu/jin-hyung-kim))
-  
-5. Manipulating Discursive Funnels: How Businesses Counter Geopolitical Tensions Through Information (with [Chengyu Fu](https://chengyufu.github.io/))
-  
-6. Transformative Techno-Nationalism: Corporation, Labor, and Automation (with [Zhizhen Lu](https://www.zhizhenlu.com/))
 
 <script src="{{ '/assets/js/collapsible.js' | relative_url }}?v=3"></script>
