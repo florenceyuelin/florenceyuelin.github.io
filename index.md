@@ -2,6 +2,36 @@
 layout: homepage
 ---
 
+<style>
+.collapsible {
+  background-color: transparent;
+  color: #2a9fd6;
+  cursor: pointer;
+  padding: 4px 0;
+  margin: 0;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 1em;
+  font-family: inherit;
+}
+.collapsible:hover {
+  text-decoration: underline;
+}
+.content {
+  padding: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out;
+}
+.content p {
+  margin: 8px 0;
+  line-height: 1.65;
+  max-width: 42em;
+  color: #555;
+}
+</style>
+
 ## About Me
 
 Welcome! I am a Ph.D. Candidate in Political Science at the [University of California, Berkeley](https://polisci.berkeley.edu/people/person/yue-florence-lin), with a Designated Emphasis on Political Economy through [Berkeley Economy & Society Initiative](https://besi.berkeley.edu/graduate-program/). I am also a [Data Science & AI Fellow](https://dlab.berkeley.edu/people/yue-lin) at [Berkeley Data Science Lab](https://dlab.berkeley.edu/home) and a non-resident Hans J. Morgenthau Fellow at [University of Notre Dame's International Security Center](https://ondisc.nd.edu/).
