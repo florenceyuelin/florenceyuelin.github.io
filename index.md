@@ -34,19 +34,16 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: May 2026)
        <em>Job Market Paper</em>
      </li>
    </ul>
-   <details class="paper-toggle">
-     <summary>Abstract</summary>
-     <p>Your abstract text goes here. Multiple paragraphs are fine,
-     and you can include <a href="...">links</a>, <em>emphasis</em>, etc.</p>
-   </details>
-   <details class="paper-toggle">
-     <summary>BibTeX</summary>
-     <pre><code>@article{lin2026striking,
-  author = {Lin, Yue},
-  title  = {Striking but Fleeting: ...},
-  year   = {2026}
-}</code></pre>
-   </details>
+   <p class="paper-links">
+     <a href="assets/files/jmp.pdf">Preprint</a>
+     <details class="paper-toggle">
+       <summary>Abstract</summary>
+       <div class="abstract-body">
+         Your abstract text goes here. Write it as one flowing paragraph
+         to match the screenshot style.
+       </div>
+     </details>
+   </p>
 
 2. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
    <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
