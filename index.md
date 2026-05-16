@@ -66,7 +66,25 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: May 2026)
    <details style="margin: 8px 0 16px 0;">
      <summary style="cursor:pointer; color:#2a9fd6; list-style:none; display:inline-block;">Abstract</summary>
      <p style="margin-top:10px; line-height:1.65; color:#555; max-width:42em;">
-       contents here
+       Why do governments increasingly invoke national security to criticize foreign multinational enterprises (MNEs), and how do affected firms respond? I argue that economic
+securitization (ES) is a strategic political tool, activated when host country legislators
+face competitive elections in constituencies exposed to foreign economic competition.
+The phenomenon is striking but fleeting: it intensifies under joint electoral
+and economic pressure and recedes once that pressure passes. Yet, some ES bills acquire
+institutional traction through chamber passage, signaling a higher probability
+of future regulation. In response, foreign MNEs adjust their nonmarket portfolios accordingly.
+Under early-stage ES, firms substitute away from elite-targeted lobbying
+toward society-oriented environmental, social, and governance (ESG) engagement that
+helps rebuild local legitimacy. Once ES bills gain institutional traction, MNEs retrench
+from the most visible social-pillar engagement and reduce lobbying intensity. Using an
+original dataset of 5,484 U.S. legislator-session observations (2005–2024) paired with
+a firm-year panel of 591 foreign MNEs operating in the United States (2013–2024),
+I find empirical support for the conditional electoral activation of ES risk and the
+two-stage corporate response. Twenty-one interviews with senior corporate and policy
+professionals further reveal how MNEs choose among different strategies in response
+to politicized investment environments. Overall, this paper identifies politicians as a
+new source of host country investment risk, and offers managerial guidance for global
+firms operating in increasingly politicized contexts.
      </p>
    </details>
    
