@@ -34,16 +34,13 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: May 2026)
        <em>Job Market Paper</em>
      </li>
    </ul>
-   <p class="paper-links">
-     <a href="assets/files/jmp.pdf">Preprint</a>
-     <details class="paper-toggle">
-       <summary>Abstract</summary>
-       <div class="abstract-body">
-         Your abstract text goes here. Write it as one flowing paragraph
-         to match the screenshot style.
-       </div>
-     </details>
-   </p>
+   <details class="paper-toggle">
+     <summary>Abstract</summary>
+     <div class="abstract-body">
+       Your abstract text goes here. Write it as one flowing paragraph
+       to match the screenshot style.
+     </div>
+   </details>
 
 2. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
    <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
