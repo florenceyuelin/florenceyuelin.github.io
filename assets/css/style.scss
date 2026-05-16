@@ -3,31 +3,15 @@
 
 @import "minimal-light";
 
-/* Container that holds Preprint + Abstract side by side */
-.paper-links {
+.paper-toggle {
   margin: 0.3em 0;
 }
 
-.paper-links a {
-  color: #2a9fd6;          /* the blue from your screenshots */
-  text-decoration: none;
-  margin-right: 1em;
-}
-
-.paper-links a:hover {
-  text-decoration: underline;
-}
-
-/* The <details> toggle, styled to sit inline next to the Preprint link */
-.paper-toggle {
-  display: inline;
-}
-
 .paper-toggle summary {
-  display: inline;
   cursor: pointer;
-  color: #2a9fd6;
+  color: #2a9fd6;          /* the blue from your screenshots */
   list-style: none;        /* removes the default triangle */
+  display: inline-block;
 }
 
 .paper-toggle summary::-webkit-details-marker {
@@ -38,9 +22,7 @@
   text-decoration: underline;
 }
 
-/* The expanded abstract — block paragraph below */
 .abstract-body {
-  display: block;
   margin-top: 0.8em;
   line-height: 1.6;
   color: #333;
