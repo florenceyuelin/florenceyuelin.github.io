@@ -3,32 +3,30 @@
 
 @import "minimal-light";
 
-.paper-toggle {
-  margin: 0.5em 0 1em 0;
+.abstract-toggle {
+  margin: 0.45em 0 1.2em 0;
 }
 
-.paper-toggle summary {
+.abstract-toggle summary {
   cursor: pointer;
   color: #2a9fd6;
-  font-size: 1.05em;
+  font-size: 1.15em;
+  font-weight: 400;
   list-style: none;
   display: inline-block;
-  padding: 2px 0;
 }
 
-.paper-toggle summary::-webkit-details-marker {
+.abstract-toggle summary::-webkit-details-marker {
   display: none;
 }
 
-.paper-toggle summary:hover {
-  text-decoration: underline;
+.abstract-toggle summary::marker {
+  display: none;
 }
 
-.abstract-body {
+.abstract-text {
   margin-top: 0.8em;
-  line-height: 1.65;
-  color: #333;
   max-width: 42em;
+  line-height: 1.65;
+  color: #555;
 }
-
-summary::-webkit-details-marker { display: none; }
