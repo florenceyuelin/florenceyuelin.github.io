@@ -2,3 +2,39 @@
 ---
 
 @import "minimal-light";
+
+.paper-toggle {
+  margin: 0.3em 0 0.3em 1.5em;
+  font-size: 0.95em;
+}
+
+.paper-toggle summary {
+  cursor: pointer;
+  color: #4a4a4a;
+  font-style: italic;
+  list-style: none;       /* hides the default triangle */
+  display: inline-block;
+  padding: 1px 0;
+}
+
+.paper-toggle summary::before {
+  content: "▸ ";
+  display: inline-block;
+  transition: transform 0.15s ease;
+}
+
+.paper-toggle[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+.paper-toggle summary:hover {
+  color: #003262;          /* Berkeley blue */
+}
+
+.paper-toggle > p,
+.paper-toggle > pre {
+  margin: 0.4em 0 0.6em 1.2em;
+  padding: 0.5em 0.8em;
+  border-left: 2px solid #e0e0e0;
+  background: #fafafa;
+}
