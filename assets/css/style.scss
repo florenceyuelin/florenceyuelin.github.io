@@ -50,3 +50,7 @@
   line-height: 1.6;
   max-width: 42em;
 }
+
+summary::-webkit-details-marker { display: none; }
+
+details summary:hover { text-decoration: underline; }
