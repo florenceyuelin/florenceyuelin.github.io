@@ -4,18 +4,20 @@
 @import "minimal-light";
 
 .paper-toggle {
-  margin: 0.3em 0;
+  margin: 0.5em 0 1em 0;
 }
 
 .paper-toggle summary {
   cursor: pointer;
-  color: #2a9fd6;          /* the blue from your screenshots */
-  list-style: none;        /* removes the default triangle */
+  color: #2a9fd6;
+  font-size: 1.05em;
+  list-style: none;
   display: inline-block;
+  padding: 2px 0;
 }
 
 .paper-toggle summary::-webkit-details-marker {
-  display: none;           /* Safari-specific triangle removal */
+  display: none;
 }
 
 .paper-toggle summary:hover {
@@ -24,7 +26,7 @@
 
 .abstract-body {
   margin-top: 0.8em;
-  line-height: 1.6;
+  line-height: 1.65;
   color: #333;
-  max-width: 42em;          /* keeps line length readable like the screenshot */
+  max-width: 42em;
 }
