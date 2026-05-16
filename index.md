@@ -28,12 +28,25 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: May 2026)
 **Lin, Y**. (2025). “[How Foreign Investment Fuels Social Conflicts in Africa](https://www.routledge.com/Legalization-of-Human-Rights-in-Africa-The-Institutionalization-of-Laws-Prohibiting-State-Sanctioned-Violence-and-Torture/Mitchell-Nchotu-Atanga/p/book/9781032749495).” In S. M. Mitchell, V. Nchotu, & L. L. Atanga (Eds.), *Legalization of Human Rights in Africa: The Institutionalization of Laws Prohibiting State-Sanctioned Violence and Torture* (pp. 149–170). Routledge.
 
 ## Working Papers
-1. Striking but Fleeting: How Economic Security Shapes Global Firms’ Socio-Political Strategy
+1. Striking but Fleeting: How Economic Security Shapes Global Firms' Socio-Political Strategy
    <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
      <li style="list-style-type: disc; color: black; margin:0;">
-       <em>Job Market Paper
+       <em>Job Market Paper</em>
      </li>
    </ul>
+   <details class="paper-toggle">
+     <summary>Abstract</summary>
+     <p>Your abstract text goes here. Multiple paragraphs are fine,
+     and you can include <a href="...">links</a>, <em>emphasis</em>, etc.</p>
+   </details>
+   <details class="paper-toggle">
+     <summary>BibTeX</summary>
+     <pre><code>@article{lin2026striking,
+  author = {Lin, Yue},
+  title  = {Striking but Fleeting: ...},
+  year   = {2026}
+}</code></pre>
+   </details>
 
 2. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
    <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
