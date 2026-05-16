@@ -102,21 +102,4 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: May 2026)
   
 6. Transformative Techno-Nationalism: Corporation, Labor, and Automation (with [Zhizhen Lu](https://www.zhizhenlu.com/))
 
-{% raw %}
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  var coll = document.getElementsByClassName("collapsible");
-  for (var i = 0; i < coll.length; i++) {
-    coll[i].addEventListener("click", function() {
-      this.classList.toggle("active");
-      var content = this.nextElementSibling;
-      if (content.style.maxHeight) {
-        content.style.maxHeight = null;
-      } else {
-        content.style.maxHeight = content.scrollHeight + "px";
-      }
-    });
-  }
-});
-</script>
-{% endraw %}
+<script src="{{ '/assets/js/collapsible.js' | relative_url }}"></script>
