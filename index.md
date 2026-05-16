@@ -59,15 +59,16 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: May 2026)
 
 ## Working Papers
 1. **Striking but Fleeting: How Economic Security Shapes Global Firms' Socio-Political Strategy**  
-   <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
-     <li style="list-style-type: disc; color: black; margin:0;">
-       <em>Job Market Paper</em>
-     </li>
+   <ul style="margin:0; padding-left:0.8em;">
+     <li><em>Job Market Paper</em></li>
    </ul>
-   <button class="collapsible" data-target="abs1">Abstract</button>
-<div class="content" id="abs1">
-  <p>Your abstract text for paper 1 goes here.</p>
-</div>
+
+   <details style="margin: 8px 0 16px 0;">
+     <summary style="cursor:pointer; color:#2a9fd6; list-style:none; display:inline-block;">Abstract</summary>
+     <p style="margin-top:10px; line-height:1.65; color:#555; max-width:42em;">
+       contents here
+     </p>
+   </details>
    
 2. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
    <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
