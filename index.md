@@ -58,11 +58,7 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: May 2026)
 **Lin, Y**. (2025). “[How Foreign Investment Fuels Social Conflicts in Africa](https://www.routledge.com/Legalization-of-Human-Rights-in-Africa-The-Institutionalization-of-Laws-Prohibiting-State-Sanctioned-Violence-and-Torture/Mitchell-Nchotu-Atanga/p/book/9781032749495).” In S. M. Mitchell, V. Nchotu, & L. L. Atanga (Eds.), *Legalization of Human Rights in Africa: The Institutionalization of Laws Prohibiting State-Sanctioned Violence and Torture* (pp. 149–170). Routledge.
 
 ## Working Papers
-1. **Striking but Fleeting: How Economic Security Shapes Global Firms' Socio-Political Strategy**  
-   <ul style="margin:0; padding-left:0.8em;">
-     <li><em>Job Market Paper</em></li>
-   </ul>
-
+1. Striking but Fleeting: How Economic Security Shapes Global Firms' Socio-Political Strategy **[Job Market Paper]**
    <details style="margin: 8px 0 16px 0;">
      <summary style="cursor:pointer; color:#2a9fd6; list-style:none; display:inline-block;">Abstract</summary>
      <p style="margin-top:10px; line-height:1.65; color:#555; max-width:42em;">
