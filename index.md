@@ -41,7 +41,7 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: May 2026)
        to match the screenshot style.
      </div>
    </details>
-
+   
 2. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
    <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
      <li style="list-style-type: disc; color: black; margin:0;">
