@@ -61,7 +61,7 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: May 2026)
 1. Striking but Fleeting: How Economic Security Shapes Global Firms' Socio-Political Strategy **[Job Market Paper]**
    <details style="margin: 8px 0 16px 0;">
      <summary style="cursor:pointer; color:#2a9fd6; list-style:none; display:inline-block;">Abstract</summary>
-     <p style="margin-top:10px; line-height:1.65; color:#555; max-width:42em;">
+     <p style="margin-top:10px; line-height:1.65; color:#555; max-width:42em; text-align:justify;">
        Why do governments increasingly invoke national security to criticize foreign multinational enterprises (MNEs), and how do affected firms respond? I argue that economic
 securitization (ES) is a strategic political tool, activated when host country legislators
 face competitive elections in constituencies exposed to foreign economic competition.
