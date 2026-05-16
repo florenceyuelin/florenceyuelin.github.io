@@ -108,7 +108,7 @@ firms operating in increasingly politicized contexts.
      </li>
    </ul>
 
-3. When Regulation Bites: The Asymmetry of Technology Statecraft and U.S.–China Cross-Border Venture Capital Investment (with [Jin Hyung Kim](https://business.gwu.edu/jin-hyung-kim))
+3. When Regulation Bites: The Asymmetry of Technology Statecraft and U.S.–China Venture Capital Investment (with [Jin Hyung Kim](https://business.gwu.edu/jin-hyung-kim))
 
 4. Navigating the Chasm: How Political Signal Incongruence Shapes Corporate Nonmarket Strategy (with [Jin Hyung Kim](https://business.gwu.edu/jin-hyung-kim))
 
