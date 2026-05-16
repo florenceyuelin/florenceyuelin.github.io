@@ -3,30 +3,20 @@
 
 @import "minimal-light";
 
-.abstract-toggle {
-  margin: 0.45em 0 1.2em 0;
-}
-
 .abstract-toggle summary {
   cursor: pointer;
   color: #2a9fd6;
   font-size: 1.15em;
-  font-weight: 400;
   list-style: none;
-  display: inline-block;
 }
 
 .abstract-toggle summary::-webkit-details-marker {
   display: none;
 }
 
-.abstract-toggle summary::marker {
-  display: none;
-}
-
 .abstract-text {
-  margin-top: 0.8em;
-  max-width: 42em;
+  margin-top: 0.3em;
   line-height: 1.65;
   color: #555;
+  max-width: 42em;
 }
