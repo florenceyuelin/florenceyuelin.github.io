@@ -104,8 +104,8 @@ and acquisitions (M&As) establish new global value chains (GVCs) or strengthen e
 economic collaboration, which are less observed in the financial M&As that are purely profit seeking.
 Moreover, weak RoL may deter more strategic M&As due to GVC linkages that can transfer spillover
 effects to home countries. Based on data from the International Country Risk Guide and Capital IQ for
-140 countries (2010-2021), I find that law <em>de jure<\em> significantly promotes M&A values only when law <em>de
-facto<\em> is at a middle or high level. Overall, this paper explores the differential impacts of law on cross-border
+140 countries (2010-2021), I find that law <em>de jure</em> significantly promotes M&A values only when law <em>de
+facto</em> is at a middle or high level. Overall, this paper explores the differential impacts of law on cross-border
 investment, calling for emerging markets and new democracies to improve institutional quality and law
 enforcement capacity for sustained global economic cooperation. The paper offers also practical managerial implications for
 corporate leaders to enhance legal astuteness.
@@ -130,7 +130,25 @@ U.S. industrial policy is shaped by both global strategic rivalry and domestic p
      </p>
    </details>
    
-4. A Human-AI Interactive Approach to Record Linkage in Big Datasets via SPLINK Package (with [Lingyu Jack Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/) and [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
+4. Probabilistic Record Linkage at Scale: A Human–AI Pipeline for Firm-Level Research (with [Lingyu Jack Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/) and [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
+   <details style="margin: 8px 0 16px 0;">
+     <summary style="cursor:pointer; color:#2a9fd6; list-style:none; display:inline-block;">Abstract</summary>
+     <p style="margin-top:10px; line-height:1.65; color:#555; max-width:42em;">
+      Research on private organizations increasingly depends on integrating heterogeneous data sources that
+rarely share common identifiers, such as financial statements, patent filings, lobbying records, and owner-
+ship registries. Resolving which records refer to the same firm is therefore a foundational empirical step,
+yet existing approaches force a trade-off between scalability and accuracy. Purely deterministic methods
+miss true matches in messy data, while fully automated probabilistic methods generate false positives that
+propagate silently through downstream analyses. In this paper, we propose a human-in-the-loop pipeline
+for large-scale firm record linkage built upon the <code>Splink</code> package, with diagnostic transparency as the
+organizing principle. Specifically, we combine a three-tier tokenization scheme for company names with
+recall-prioritizing blocking rules, and embed researcher review with auditable diagnostics throughout
+model training, feature selection, and threshold tuning. We further illustrate the pipeline by linking
+Good Jobs First’s Subsidy Tracker to Bureau van Dijk’s Orbis firm universe, showing that the workflow
+generalizes to a broad range of record linkage tasks. The result is a computationally efficient, transparent,
+and replicable workflow that lowers the barrier to large-scale data integration across disciplines.
+     </p>
+   </details>
     
 ## Ongoing Projects
 
