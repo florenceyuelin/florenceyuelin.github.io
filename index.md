@@ -140,7 +140,7 @@ ship registries. Resolving which records refer to the same firm is therefore a f
 yet existing approaches force a trade-off between scalability and accuracy. Purely deterministic methods
 miss true matches in messy data, while fully automated probabilistic methods generate false positives that
 propagate silently through downstream analyses. In this paper, we propose a human-in-the-loop pipeline
-for large-scale firm record linkage built upon the <code>Splink</code> package, with diagnostic transparency as the
+for large-scale firm record linkage built upon the Splink package, with diagnostic transparency as the
 organizing principle. Specifically, we combine a three-tier tokenization scheme for company names with
 recall-prioritizing blocking rules, and embed researcher review with auditable diagnostics throughout
 model training, feature selection, and threshold tuning. We further illustrate the pipeline by linking
