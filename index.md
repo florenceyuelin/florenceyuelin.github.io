@@ -92,6 +92,25 @@ firms operating in increasingly politicized contexts.
        <em>Finalist for 2026 UNCTAD-AIB Award for Research on Investment and Development</em>
      </li>
    </ul>
+
+      <details style="margin: 8px 0 16px 0;">
+     <summary style="cursor:pointer; color:#2a9fd6; list-style:none; display:inline-block;">Abstract</summary>
+     <p style="margin-top:10px; line-height:1.65; color:#555; max-width:42em;">
+       International investment has facilitated economic cooperation among states and multinational
+enterprises (MNEs), yet it constantly suffers from regulatory uncertainties and institutional hazards. How does
+the rule of law (RoL) in targeted markets affect MNEs’ cross-border investment? I argue that the RoL
+has differential effects on different types of cross-border investment. In particular, strategic mergers
+and acquisitions (M&As) establish new global value chains (GVCs) or strengthen existing ones to foster
+economic collaboration, which are less observed in the financial M&As that are purely profit seeking.
+Moreover, weak RoL may deter more strategic M&As due to GVC linkages that can transfer spillover
+effects to home countries. Based on data from the International Country Risk Guide and Capital IQ for
+140 countries (2010-2021), I find that law <em>de jure<\em> significantly promotes M&A values only when law <em>de
+facto<\em> is at a middle or high level. Overall, this paper explores the differential impacts of law on cross-border
+investment, calling for emerging markets and new democracies to improve institutional quality and law
+enforcement capacity for sustained global economic cooperation. The paper offers also practical managerial implications for
+corporate leaders to enhance legal astuteness.
+     </p>
+   </details>
    
 3. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
    <details style="margin: 8px 0 16px 0;">
