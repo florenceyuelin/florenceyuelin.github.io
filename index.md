@@ -130,7 +130,7 @@ U.S. industrial policy is shaped by both global strategic rivalry and domestic p
      </p>
    </details>
    
-4. Probabilistic Record Linkage at Scale: A Human–AI Pipeline for Firm-Level Research (with [Lingyu Jack Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/) and [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
+4. Probabilistic Record Linkage at Scale: A Human–AI Interactive Pipeline for Firm-Level Research (with [Lingyu Jack Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/) and [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
    <details style="margin: 8px 0 16px 0;">
      <summary style="cursor:pointer; color:#2a9fd6; list-style:none; display:inline-block;">Abstract</summary>
      <p style="margin-top:10px; line-height:1.65; color:#555; max-width:42em;">
