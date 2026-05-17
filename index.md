@@ -94,6 +94,22 @@ firms operating in increasingly politicized contexts.
    </ul>
    
 3. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
+   <details style="margin: 8px 0 16px 0;">
+     <summary style="cursor:pointer; color:#2a9fd6; list-style:none; display:inline-block;">Abstract</summary>
+     <p style="margin-top:10px; line-height:1.65; color:#555; max-width:42em;">
+       We examine the revival of industrial policy in the United States amid an
+evolving global geopolitical environment. We argue that federal industrial policy reflects a dual logic:
+it functions as an instrument of statecraft to enhance strategic and technological advantages vis-`avis
+global rivals, while simultaneously serving as a vehicle for domestic political distribution. Using
+a novel firm-level dataset that combines information from Good Jobs First's Subsidy Tracker and Bureau van Dijk’s Orbis Historical databases,
+we analyze the allocation of federal subsidies across more than 2 million firm-year observations from
+2010 to 2021. Our results show that firms more exposed to Chinese import competition and those
+operating in industries targeted by the “Made in China 2025” initiative are significantly more likely to
+receive federal support, while political connections also play a critical role. We develop a comprehensive
+framework for understanding the new wave of industrial policy and demonstrate that contemporary
+U.S. industrial policy is shaped by both global strategic rivalry and domestic political considerations.
+     </p>
+   </details>
    
 4. A Human-AI Interactive Approach to Record Linkage in Big Datasets via SPLINK Package (with [Lingyu Jack Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/) and [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
     
