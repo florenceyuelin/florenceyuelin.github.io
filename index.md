@@ -135,8 +135,7 @@ U.S. industrial policy is shaped by both global strategic rivalry and domestic p
      <summary style="cursor:pointer; color:#2a9fd6; list-style:none; display:inline-block;">Abstract</summary>
      <p style="margin-top:10px; line-height:1.65; color:#555; max-width:42em;">
       Research on private organizations increasingly depends on integrating heterogeneous data sources that
-rarely share common identifiers, such as financial statements, patent filings, lobbying records, and owner-
-ship registries. Resolving which records refer to the same firm is therefore a foundational empirical step,
+rarely share common identifiers, such as financial statements, patent filings, lobbying records, and ownership registries. Resolving which records refer to the same firm is therefore a foundational empirical step,
 yet existing approaches force a trade-off between scalability and accuracy. Purely deterministic methods
 miss true matches in messy data, while fully automated probabilistic methods generate false positives that
 propagate silently through downstream analyses. In this paper, we propose a human-in-the-loop pipeline
