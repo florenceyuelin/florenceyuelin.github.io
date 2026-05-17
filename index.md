@@ -152,7 +152,7 @@ and replicable workflow that lowers the barrier to large-scale data integration 
     
 ## Ongoing Projects
 
-1. Securitizing the Sophisticated: Technology, Public Opinion, and Economic National Security
+1. Securitizing the Sophisticated: Technology, Public Opinion, and Economic Security
 
 2. For Whose Sake? Corporate Motivations Behind Economic National Security
    <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
