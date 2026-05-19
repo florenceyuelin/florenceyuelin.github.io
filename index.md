@@ -107,7 +107,7 @@ effects to home countries. Based on data from the International Country Risk Gui
 140 countries (2010-2021), I find that law <em>de jure</em> significantly promotes M&A values only when law <em>de
 facto</em> is at a middle or high level. Overall, this paper explores the differential impacts of law on cross-border
 investment, calling for emerging markets and new democracies to improve institutional quality and law
-enforcement capacity for sustained global economic cooperation. The paper offers also practical managerial implications for
+enforcement capacity for sustained global economic cooperation. The paper also offers practical managerial implications for
 corporate leaders to enhance legal astuteness.
      </p>
    </details>
