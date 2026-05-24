@@ -67,15 +67,12 @@ face competitive elections in constituencies exposed to foreign economic competi
 The phenomenon is striking but fleeting: it intensifies under joint electoral
 and economic pressure and recedes once that pressure passes. Yet, some ES bills acquire
 institutional traction through chamber passage, signaling a higher probability
-of future regulation. In response, foreign MNEs adjust their nonmarket portfolios accordingly.
-Under early-stage ES, firms substitute away from elite-targeted lobbying
+of future regulation. In response, under early-stage ES risk, firms substitute away from elite-targeted lobbying
 toward society-oriented environmental, social, and governance (ESG) engagement that
 helps rebuild local legitimacy. Once ES bills gain institutional traction, MNEs retrench
-from the most visible social-pillar engagement and reduce lobbying intensity. Using an
-original dataset of 5,484 U.S. legislator-session observations (2005–2024) paired with
-a firm-year panel of 591 foreign MNEs operating in the United States (2013–2024),
-I find empirical support for the conditional electoral activation of ES risk and the
-two-stage corporate response. Twenty-one interviews with senior corporate and policy
+from the most visible social-pillar engagement and reduce lobbying intensity. Using a staggered difference-in-differences design with an original
+dataset of 5,484 U.S. legislator-session observations (2005–2024) and 591 foreign MNEs operating in the United States (2013–2024),
+I find empirical support for these propositions. Twenty-one interviews with senior corporate and policy
 professionals further reveal how MNEs choose among different strategies in response
 to politicized investment environments. Overall, this paper identifies politicians as a
 new source of host country investment risk, and offers managerial guidance for global
