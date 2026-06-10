@@ -58,7 +58,7 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: June 2026)
 **Lin, Y**. (2025). “[How Foreign Investment Fuels Social Conflicts in Africa](https://www.routledge.com/Legalization-of-Human-Rights-in-Africa-The-Institutionalization-of-Laws-Prohibiting-State-Sanctioned-Violence-and-Torture/Mitchell-Nchotu-Atanga/p/book/9781032749495).” In S. M. Mitchell, V. Nchotu, & L. L. Atanga (Eds.), *Legalization of Human Rights in Africa: The Institutionalization of Laws Prohibiting State-Sanctioned Violence and Torture*, 149-170. Routledge.
 
 ## Working Papers
-1. When Legitimacy Becomes a Liability: How Economic Securitization Shapes Global Firms' Socio-Political Strategy **[Job Market Paper]**
+4. When Legitimacy Becomes a Liability: How Economic Securitization Shapes Global Firms' Socio-Political Strategy **[Job Market Paper]**
    <details style="margin: 8px 0 16px 0;">
      <summary style="cursor:pointer; color:#2a9fd6; list-style:none; display:inline-block;">Abstract</summary>
      <p style="margin-top:10px; line-height:1.65; color:#555; max-width:42em;">
@@ -66,7 +66,7 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: June 2026)
      </p>
    </details>
    
-2. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
+3. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
    <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
      <li style="list-style-type: disc; color: black; margin:0;">
        <em>Invited to submit full paper</em>
@@ -95,7 +95,7 @@ corporate leaders to enhance legal astuteness.
      </p>
    </details>
    
-3. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
+2. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
    <details style="margin: 8px 0 16px 0;">
      <summary style="cursor:pointer; color:#2a9fd6; list-style:none; display:inline-block;">Abstract</summary>
      <p style="margin-top:10px; line-height:1.65; color:#555; max-width:42em;">
@@ -113,7 +113,7 @@ U.S. industrial policy is shaped by both global strategic rivalry and domestic p
      </p>
    </details>
    
-4. Probabilistic Record Linkage at Scale: A Human–AI Interactive Pipeline for Firm-Level Research (with [Lingyu Jack Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/) and [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
+1. Probabilistic Record Linkage at Scale: A Human–AI Interactive Pipeline for Firm-Level Research (with [Lingyu Jack Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/) and [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
    <details style="margin: 8px 0 16px 0;">
      <summary style="cursor:pointer; color:#2a9fd6; list-style:none; display:inline-block;">Abstract</summary>
      <p style="margin-top:10px; line-height:1.65; color:#555; max-width:42em;">
@@ -134,15 +134,15 @@ and replicable workflow that lowers the barrier to large-scale data integration 
     
 ## Ongoing Projects
 
-1. Winning Hearts and Minds? Economic Securitization, Corporate Social Investment, and Consumer Response
+4. Winning Hearts and Minds? Economic Securitization, Corporate Social Investment, and Consumer Response
 
-2. Caught in the Crossfire: Electric Vehicle Firms under Economic Securitization
+3. Caught in the Crossfire: Electric Vehicle Firms under Economic Securitization
    <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
      <li style="list-style-type: disc; color: black; margin:0;">
        <em>Nominated for Best Paper Prize and PhD Paper Prize, Strategic Management Society 2025 Conference</em>
      </li>
    </ul>
 
-3. Navigating the Chasm: How Political Signal Incongruence Shapes Corporate Nonmarket Strategy (with [Jin Hyung Kim](https://business.gwu.edu/jin-hyung-kim))<script src="{{ '/assets/js/collapsible.js' | relative_url }}?v=3"></script>
+2. Navigating the Chasm: How Political Signal Incongruence Shapes Corporate Nonmarket Strategy (with [Jin Hyung Kim](https://business.gwu.edu/jin-hyung-kim))<script src="{{ '/assets/js/collapsible.js' | relative_url }}?v=3"></script>
 
-4. The Asymmetry of Technology Statecraft and U.S.–China Venture Capital Investment (with [Jin Hyung Kim](https://business.gwu.edu/jin-hyung-kim))
+1. The Asymmetry of Technology Statecraft and U.S.–China Venture Capital Investment (with [Jin Hyung Kim](https://business.gwu.edu/jin-hyung-kim))
