@@ -47,7 +47,7 @@ You can access my CV [here](assets/files/cv.pdf). (Last updated: May 2026)
 
 ## Research Interests
 
-- **Substance:** Geopolitics, Economic Security, Congress, Multinational Enterprises, Firm Strategy
+- **Substance:** Global Strategy, Nonmarket Strategy, Multinational Enterprises, Geopolitics, Corporate Social Responsibility
 - **Methodology:** Natural Language Processing, Machine Learning, Experiments in Social Science, Qualitative Interview
 
 
@@ -134,9 +134,9 @@ and replicable workflow that lowers the barrier to large-scale data integration 
     
 ## Ongoing Projects
 
-1. Securitizing the Sophisticated: Technology, Public Opinion, and Economic Security
+1. Winning Hearts and Minds? Economic Securitization, Corporate Social Investment, and Consumer Responses
 
-2. For Whose Sake? Corporate Motivations Behind Economic National Security
+2. Caught in the Crossfire: Electric Vehicle Firms' Strategy under Economic Securitization
    <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
      <li style="list-style-type: disc; color: black; margin:0;">
        <em>Nominated for Best Paper Prize and PhD Paper Prize, Strategic Management Society 2025 Conference</em>
