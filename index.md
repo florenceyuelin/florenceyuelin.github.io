@@ -134,7 +134,7 @@ and replicable workflow that lowers the barrier to large-scale data integration 
     
 ## Ongoing Projects
 
-1. Winning Hearts and Minds? Economic Securitization, Corporate Social Investment, and Consumer Responses
+1. Winning Hearts and Minds? Economic Securitization, Corporate Social Investment, and Consumer Response
 
 2. Caught in the Crossfire: Electric Vehicle Firms' Strategy under Economic Securitization
    <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
