@@ -59,14 +59,14 @@ You can access my CV [here](assets/files/cv.pdf) (last updated: June 2026). **I 
 
 ## Working Papers
 1. When Legitimacy Becomes a Liability: How Economic Securitization Shapes Global Firms' Socio-Political Strategy **[Job Market Paper]**
-   <div style="margin: 8px 0 16px 0; display: flex; gap: 16px; align-items: flex-start; flex-wrap: wrap;">
-     <details style="flex: 1; min-width: 200px;">
+   <div style="margin: 8px 0 16px 0;">
+     <details style="display: inline-block;">
        <summary style="cursor:pointer; color:#2a9fd6; list-style:none; display:inline-block;">Abstract</summary>
        <p style="margin-top:10px; line-height:1.65; color:#555; max-width:42em;">
       Why do governments increasingly invoke national security to criticize foreign multinational enterprises (MNEs), and how do affected firms respond? I argue that <em>economic securitization</em> (ES)&mdash;the framing of foreign investment as a national security threat&mdash;is a salient and extreme political risk that follows a distinct life cycle. It is activated when host country legislators face competitive elections in constituencies exposed to foreign economic competition. Under emergent ES risk exposure, firms substitute away from elite-targeted lobbying toward social investment to establish broader legitimacy. Once ES risk consolidates, however, high-profile social engagement becomes a liability, as local embeddedness now reads as suspicious foreign influence, so MNEs scale back both political and social channels. Using a staggered difference-in-differences design with an original dataset of 5,484 U.S. legislator-session observations (2005–2024) and 634 foreign MNEs operating in the United States (2013–2024), I find empirical support for these propositions. Twenty-one interviews with senior corporate and policy professionals further reveal how MNEs choose among different strategies in response to different risk levels. Overall, this paper theorizes economic securitization as a novel political risk, showing that the trade-off between corporate political and social strategy follows a stage-dependent life cycle. It offers managerial guidance for global firms operating in increasingly politicized contexts.
     </p>
      </details>
-     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6933318" target="_blank" rel="noopener noreferrer" style="background:none; border:none; color:#2a9fd6; cursor:pointer; text-decoration:none; font:inherit; padding:0; margin:0; flex-shrink:0;">Preprint</a>
+     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6933318" target="_blank" rel="noopener noreferrer" style="color:#2a9fd6; text-decoration:none; margin-left: 16px;">Preprint</a>
    </div>
    
 2. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
