@@ -137,7 +137,7 @@ and replicable workflow that lowers the barrier to large-scale data integration 
     
 ## Ongoing Projects
 
-1. Winning Hearts and Minds? Economic Securitization, Corporate Social Investment, and Consumer Response
+1. Winning Hearts and Minds? Consumer Reactions to Corporate Social Investment
 
 2. Caught in the Crossfire: Electric Vehicle Firms under Economic Securitization
    <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
@@ -148,4 +148,4 @@ and replicable workflow that lowers the barrier to large-scale data integration 
 
 3. Navigating the Chasm: How Political Signal Incongruence Shapes Corporate Nonmarket Strategy (with [Jin Hyung Kim](https://business.gwu.edu/jin-hyung-kim))<script src="{{ '/assets/js/collapsible.js' | relative_url }}?v=3"></script>
 
-4. The Asymmetry of Technology Statecraft and U.S.–China Venture Capital Investment (with [Jin Hyung Kim](https://business.gwu.edu/jin-hyung-kim))
+4. Strategic Reconfiguration: Cross-Border Venture Capital under Investment Screening (with [Jin Hyung Kim](https://business.gwu.edu/jin-hyung-kim))
