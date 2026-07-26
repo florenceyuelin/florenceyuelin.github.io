@@ -57,6 +57,12 @@ You can access my CV [here](assets/files/cv.pdf) (last updated: July 2026). **I 
 
 **Lin, Y**. (2025). “[How Foreign Investment Fuels Social Conflicts in Africa](https://www.routledge.com/Legalization-of-Human-Rights-in-Africa-The-Institutionalization-of-Laws-Prohibiting-State-Sanctioned-Violence-and-Torture/Mitchell-Nchotu-Atanga/p/book/9781032749495).” In S. M. Mitchell, V. Nchotu, & L. L. Atanga (Eds.), *Legalization of Human Rights in Africa: The Institutionalization of Laws Prohibiting State-Sanctioned Violence and Torture*, 149-170. Routledge.
 
+## Methodology Posts
+
+**Lin, Y**. (2025). “[Field Experiments in Corporations](https://medium.com/@dlab-berkeley/field-experiments-in-corporations-34f10a2aa6c2).” *Berkeley Social Science Data Lab*.
+
+**Lin, Y**. (2026). “[Causal Inference in International Political Economy: Hurdles and Advancements](https://medium.com/@dlab-berkeley/causal-inference-in-international-political-economy-hurdles-and-advancements-e6d9b1fd259b).” *Berkeley Social Science Data Lab*.
+
 ## Working Papers
 1. When Legitimacy Becomes a Liability: How Economic Securitization Shapes Global Firms' Socio-Political Strategy **[Job Market Paper]**
    <div style="margin: 8px 0 16px 0;">
