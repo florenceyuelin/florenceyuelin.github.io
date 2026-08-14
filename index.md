@@ -47,8 +47,8 @@ You can access my CV [here](assets/files/cv.pdf) (last updated: July 2026). **I 
 
 ## Research Interests
 
-- **Substance:** Global Strategy, Nonmarket Strategy, Multinational Enterprises, Geopolitics, Corporate Social Responsibility
-- **Methodology:** Natural Language Processing, Machine Learning, Experiments in Social Science, Qualitative Interview
+- **Substance:** Global Strategy, Nonmarket Strategy, Multinational Enterprises, Geopolitics, Corporate Political Activity, Corporate Social Responsibility
+- **Methodology:** Natural Language Processing, Machine Learning, Experiments in Social Science, Artificial Intelligence, Qualitative Interview
 
 
 ## Publications
