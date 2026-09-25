@@ -145,7 +145,7 @@ and replicable workflow that lowers the barrier to large-scale data integration 
 
 1. Winning Hearts and Minds? Consumer Reactions to Corporate Social Investment
 
-2. Caught in the Crossfire: Electric Vehicle Firms under Economic Securitization
+2. Caught in the Crossfire: Electric Vehicle Firms under Economic Security
    <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
      <li style="list-style-type: disc; color: black; margin:0;">
        <em>Nominated for Best Paper Prize and PhD Paper Prize, Strategic Management Society 2025 Conference</em>
