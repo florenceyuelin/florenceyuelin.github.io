@@ -154,4 +154,4 @@ and replicable workflow that lowers the barrier to large-scale data integration 
 
 3. Navigating the Chasm: How Political Signal Incongruence Shapes Corporate Nonmarket Strategy (with [Jin Hyung Kim](https://business.gwu.edu/jin-hyung-kim))<script src="{{ '/assets/js/collapsible.js' | relative_url }}?v=3"></script>
 
-4. Strategic Reconfiguration: Cross-Border Venture Capital under Investment Screening (with [Jin Hyung Kim](https://business.gwu.edu/jin-hyung-kim))
+4. Strategic Reconfiguration: Cross-Border Venture Capital under Investment Screening (with [Jin Hyung Kim](https://business.gwu.edu/jin-hyung-kim), [Tony L. He](https://www.business.rutgers.edu/faculty/tony-l-he), and [Emma Kyoungseo Hong](https://www.emmakhong.com/))
